@@ -1,6 +1,20 @@
 [
+ {
+    "remote":      "github",
+    "repository":  "CyanPop-Devices/android_device_motorola_msm8226-common",
+    "target_path": "device/motorola/msm8226-common",
+    "branch":      "cm-13.0"
+  },
   {
-    "repository": "android_device_motorola_msm8226-common",
-    "target_path": "device/motorola/msm8226-common"
-  }
+    "remote":      "github",
+    "repository":  "RolanDroid/android_kernel_motorola_msm8226",
+    "target_path": "kernel/motorola/msm8226",
+    "branch":      "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanPop-Devices/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch":      "cm-13.0"
+ }
 ]
