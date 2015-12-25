@@ -7,7 +7,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "RolanDroid/android_kernel_motorola_msm8226",
+    "repository":  "CyanogenMod/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
     "branch":      "cm-13.0"
   },
